@@ -16,7 +16,7 @@
    * bool is_empty();
    * void modify_at(T datum, size_t pos);
    * void print();
-   * void void swap(size_t pos, size_t pos2);
+   * void swap(size_t pos, size_t pos2);
 - Updated changelog
 
 ## v1.0.1
